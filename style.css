@@ -230,12 +230,8 @@ header nav .home-color {
   #support .imgbox {
     margin-bottom: 20px;
   }
-  #support .textbox h1 {
-    font-size: 30px;
-    margin-top: 30px;
-  }
-  #support .textbox .btn {
-    margin-bottom: 80px;
+  #support .textbox {
+    padding: 40px;
   }
 }
 
