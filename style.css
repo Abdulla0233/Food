@@ -67,7 +67,7 @@ header nav .home-color {
 }
 @media screen and (max-width: 768px) {
   #beautiful .box h4 {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
 }
 
@@ -98,7 +98,7 @@ header nav .home-color {
 }
 @media screen and (max-width: 768px) {
   #thehome .imgbox {
-    margin-top: 30px;
+    margin-top: 40px;
   }
 }
 
@@ -134,7 +134,7 @@ header nav .home-color {
 }
 @media screen and (max-width: 768px) {
   #works .box .imgbox {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
   }
 }
 
@@ -197,7 +197,7 @@ header nav .home-color {
 }
 @media screen and (max-width: 768px) {
   #callour .imgbox {
-    margin-top: 40px;
+    margin-top: 45px;
   }
 }
 
@@ -231,7 +231,7 @@ header nav .home-color {
     margin-bottom: 20px;
   }
   #support .textbox {
-    padding: 40px;
+    padding: 55px;
   }
 }
 
